@@ -1,8 +1,8 @@
-# Restaurante — Trabalho faculdade
+# 🍽️ Restaurante — Site Institucional
 
-Este site para restaurante foi desenvolvido como um **projeto acadêmico do primeiro semestre**, com o objetivo de aplicar os conceitos iniciais de **desenvolvimento web**.
+Este projeto consiste no desenvolvimento de um site institucional para restaurante, criado de forma autoral com o objetivo de aprimorar habilidades em desenvolvimento web e na organização de informações para aplicações digitais.
 
-O projeto seguiu as diretrizes do trabalho, priorizando o uso de **HTML e CSS puros**, com **JavaScript utilizado apenas de forma limitada**, exclusivamente para funcionalidades específicas e previamente definidas.
+A proposta foi construir uma aplicação simples, funcional e bem estruturada, priorizando tecnologias base da web, com foco em clareza, semântica e organização do código.
 
 ---
 
